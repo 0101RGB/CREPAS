@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CREPAS</string>
+
+    <string name="btnFindMusicString">음악 찾으새오</string>
+    <string name="btnStartCREPAS">아모 생성해줍니다</string>
+    <string name="noSDCardText">SD카드를 장착해주새오</string>
+    <string name="notMP3Selected">MP3 선택해주새오</string>
+    <string name="generatedPW">암호 생성대었어오. 복사도 해줬줍니다. 붙여너으새오</string>
+    <string name="copiedPW">암호 복사해줍니다. 붙여너으새오</string>
+    <string name="notYetGenerated">아모를 먼저 만드새오</string>
+    <string name="backpressedString">버튼을 한번 더 누르면 앱이 종료돼줍니다</string>
+</resources>

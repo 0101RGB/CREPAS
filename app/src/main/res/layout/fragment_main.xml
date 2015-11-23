@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textFragmentMainSelected"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="15dp"
+        android:textColor="@color/defaultcolor"/>
+
+    <Button
+        android:id="@+id/btnFragmentMainStartCREPAS"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="5dp"
+        android:text="@string/btnStartCREPAS"/>
+
+    <Button
+        android:id="@+id/btnFragmentMainFindMusic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/btnFindMusicString"
+        android:layout_above="@id/btnFragmentMainStartCREPAS"
+        android:layout_margin="5dp"/>
+
+</RelativeLayout>
